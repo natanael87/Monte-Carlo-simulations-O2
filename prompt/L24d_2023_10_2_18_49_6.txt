@@ -1,0 +1,10 @@
+constrained action
+L  =  24
+ deltas:         2.300000,
+
+Ntherm =   5000
+Nmeas  =   1000
+Nskip  =     50
+
+/Computing time:    0 days   0 hours   3 minutes  17.8209 seconds.
+time in seconds:                  197.8209

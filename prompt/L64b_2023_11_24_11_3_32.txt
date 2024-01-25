@@ -1,0 +1,10 @@
+standard action
+L  =  64
+  betas:         0.454165,
+
+Ntherm =  10000
+Nmeas  =   1000
+Nskip  =     50
+
+Computing time:    0 days   0 hours  47 minutes  27.1611 seconds.
+time in seconds:                 2847.1611

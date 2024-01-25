@@ -1,0 +1,8 @@
+constrain action
+L  =  16
+ deltas:         2.300000,
+
+Ntherm =   5000
+Nmeas  =    100
+Nskip  =     50
+

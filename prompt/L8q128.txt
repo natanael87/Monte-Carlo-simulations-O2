@@ -1,0 +1,2 @@
+/Computing time:    0 days   1 hours  21 minutes  53.0952 seconds.
+time in seconds:                 4913.0952

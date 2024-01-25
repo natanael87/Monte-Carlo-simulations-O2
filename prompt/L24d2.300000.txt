@@ -1,0 +1,4 @@
+2023-10-02 18:49:06
+delta:          2.300000
+
+.054949 hours of simulation

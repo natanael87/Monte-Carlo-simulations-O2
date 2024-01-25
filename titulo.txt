@@ -1,0 +1,1 @@
+Evolución de fronteras de dominio en el modelo de Ising durante un enfriamiento fuera del equilibrio.
