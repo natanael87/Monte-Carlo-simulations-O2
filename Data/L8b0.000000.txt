@@ -1,0 +1,2 @@
+                      Mag                                                   F  N clusters    N vorts        nvx        nvy        nvz  N strings  Max s str            <l string>                Correl
+                      Mag                                                   F  N clusters    N vorts        nvx        nvy        nvz  N strings  Max s str            <l string>                Correl
